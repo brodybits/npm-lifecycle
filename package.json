@@ -1,6 +1,6 @@
 {
   "name": "npm-lifecycle",
-  "version": "2.0.3",
+  "version": "2.0.4-bbfix1",
   "description": "JavaScript package lifecycle hook runner",
   "main": "index.js",
   "scripts": {
@@ -31,7 +31,7 @@
   "dependencies": {
     "byline": "^5.0.0",
     "graceful-fs": "^4.1.11",
-    "node-gyp": "^3.6.2",
+    "node-gyp": "github:brodybits/node-gyp#bbfix1",
     "resolve-from": "^4.0.0",
     "slide": "^1.1.6",
     "uid-number": "0.0.6",
